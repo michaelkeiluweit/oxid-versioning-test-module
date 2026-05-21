@@ -1,0 +1,5 @@
+{
+  "name": "michaelkeiluweit/oxid-versioning-test-module",
+  "type": "library",
+  "require": {"michaelkeiluweit/oxid-versioning-test-shop":">=7.0 <7.5"}
+}
